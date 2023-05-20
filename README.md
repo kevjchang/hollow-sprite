@@ -17,14 +17,21 @@ Dash: player can press and release C to dash. Player will dash for a set distanc
 
 Attack: Player can press and release the X key to stab. Attack will be performed in the direction the player is currently facing, and all enemies whose hitboxes intersect with the attack hitbox will be dealt damage.
 
+<img width="409" alt="image" src="https://github.com/kevjchang/hollow-sprite/assets/108161055/63123337-c04b-4c49-a71d-bd9fe9c3a9fe">
+
 # Enemies:
 Various enemies fly through the air and shoot projectiles at the player whilst slowly approaching the player. There’s a baby that doesn’t spit but flies faster, which also follows the player. Slime enemies travel along the ground and deal melee damage. All enemies deal damage when touching the player. We use red to indicate the player or enemies taking damage.
 
 There are also stationary obstacles, similar to spikes which stay in the same position and deal damage to the player when touched.
 
+<img width="417" alt="image" src="https://github.com/kevjchang/hollow-sprite/assets/108161055/56a57888-f70d-4f93-b2f2-dc5e461a639f">
+
+
 # Game Overlays:
 A health bar is drawn at the bottom of the screen and is updated when the player takes damage.
 Text drawn to the center of the screen states when the player has died, or has passed a stage of the level.
+
+<img width="388" alt="image" src="https://github.com/kevjchang/hollow-sprite/assets/108161055/0ef7302c-ab9d-4836-b91f-533e40ba2cdb">
 
 # How it works:
 
